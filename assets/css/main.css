@@ -734,7 +734,7 @@ blockquote p {
   .navbar-collapse {
     background-color: rgba(0, 0, 0, 0.9); } }
 .header-wrapper {
-  background: url(../images/backgrounds/bg-header.jpg) no-repeat center center;
+  background: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/backgrounds/bg-header.jpg) no-repeat center center;
   background-size: cover;
   display: table;
   height: 100vh;
@@ -819,37 +819,37 @@ blockquote p {
     text-decoration: none; }
 
 .bg-kc {
-  background-image: url(../images/cover-bg-part.png);
+  background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/cover-bg-part.png);
 }
 .bg-01 {
-  background-image: url(../images/intro/01.jpg); }
+  background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/intro/01.jpg); }
 
 .bg-02 {
-  background-image: url(../images/intro/02.jpg); }
+  background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/intro/02.jpg); }
 
 .bg-03 {
-  background-image: url(../images/intro/03.jpg); }
+  background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/intro/03.jpg); }
 
 .bg-04 {
-  background-image: url(../images/intro/04.jpg); }
+  background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/intro/04.jpg); }
 
 .bg-05 {
-  background-image: url(../images/intro/05.jpg); }
+  background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/intro/05.jpg); }
 
 .bg-06 {
-  background-image: url(../images/intro/06.jpg); }
+  background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/intro/06.jpg); }
 
 .bg-07 {
-  background-image: url(../images/intro/07.jpg); }
+  background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/intro/07.jpg); }
 
 .bg-08 {
-  background-image: url(../images/intro/08.jpg); }
+  background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/intro/08.jpg); }
 
 .bg-09 {
-  background-image: url(../images/intro/09.jpg); }
+  background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/intro/09.jpg); }
 
 .bg-10 {
-  background-image: url(../images/intro/10.jpg); }
+  background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/intro/10.jpg); }
 
 .header-classic {
   display: block;
@@ -862,7 +862,7 @@ blockquote p {
 .header-inner {
   padding-top: 200px;
   background-color: black;
-  background-image: url(../images/backgrounds/bg-testimonial.jpg);
+  background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/backgrounds/bg-testimonial.jpg);
   background-size: cover;
   text-align: center; }
   .header-inner .breadcrumb {
@@ -976,7 +976,7 @@ blockquote p {
           color: #000000; }
 
 .expertise {
-  background: url(../images/backgrounds/bg-expertise.jpg) no-repeat center center; }
+  background: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/backgrounds/bg-expertise.jpg) no-repeat center center; }
   .expertise .section-heading h1, .expertise .section-heading p {
     color: #ffffff; }
   .expertise .section-heading::after {
@@ -1042,7 +1042,7 @@ blockquote p {
   .expertise .expertise-description {
     margin-bottom: 0; } }
 .video-player {
-  background: url(../images/backgrounds/bg-video.jpg) no-repeat center bottom;
+  background: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/backgrounds/bg-video.jpg) no-repeat center bottom;
   background-size: cover;
   color: #ffffff;
   text-transform: uppercase; }
@@ -1248,7 +1248,7 @@ blockquote p {
     padding-left: 0; }
 
 .testimonial {
-  background: url(../images/backgrounds/bg-testimonial.jpg) no-repeat center center;
+  background: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/backgrounds/bg-testimonial.jpg) no-repeat center center;
   color: #fdfdfd;
   background-size: cover; }
   .testimonial .carosel-wrapper {
@@ -1277,7 +1277,7 @@ blockquote p {
         width: -webkit-calc(100% - 6px);
         width: calc(100% - 6px);
         background-color: #000;
-        background-image: url(../images/team/team-1.jpg);
+        background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/team/team-1.jpg);
         background-size: cover;
         background-position-x: center;
         background-position-y: center;
@@ -1445,7 +1445,7 @@ blockquote p {
     border-color: #FAFAFA; }
 
 .funfacts {
-  background: url(../images/backgrounds/bg-fun-fact.jpg) no-repeat center center;
+  background: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/backgrounds/bg-fun-fact.jpg) no-repeat center center;
   background-size: cover; }
   .funfacts .counter-box {
     text-align: center; }
@@ -2311,7 +2311,7 @@ blockquote p {
   display: table;
   height: 100vh;
   width: 100%;
-  background-image: url(../images/404.jpg);
+  background-image: url(https://s3-us-west-2.amazonaws.com/kristincorona.com/assets/images/404.jpg);
   background-size: contain;
   background-position: 20% center;
   background-repeat: no-repeat; }
